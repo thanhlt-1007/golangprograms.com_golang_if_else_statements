@@ -27,4 +27,9 @@ func main() {
     // } else {
     //     fmt.Println("Canada")
     // }
+
+    // Golang - if statement initialization
+    // if x := 100; x == 100 {
+    //     fmt.Println("Germany")
+    // }
 }
