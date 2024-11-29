@@ -3,5 +3,10 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello World")
+    // Golang - If Statement
+    // var s = "Japan"
+    // x := true
+    // if x {
+    //     fmt.Println(s)
+    // }
 }
